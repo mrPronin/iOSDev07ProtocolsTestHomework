@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E9739141895367B004CE16B /* RITNextGeneration.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E97390B1895367B004CE16B /* RITNextGeneration.m */; };
+		3E9739151895367B004CE16B /* RITRunner.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E97390D1895367B004CE16B /* RITRunner.m */; };
+		3E9739161895367B004CE16B /* RITSwimmer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E97390F1895367B004CE16B /* RITSwimmer.m */; };
+		3E9739171895367B004CE16B /* RITWheelman.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E9739111895367B004CE16B /* RITWheelman.m */; };
+		3E9739181895367B004CE16B /* RITHuman.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E9739131895367B004CE16B /* RITHuman.m */; };
+		3E97391F1895368F004CE16B /* RITAnimal.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E97391A1895368F004CE16B /* RITAnimal.m */; };
+		3E9739201895368F004CE16B /* RITDog.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E97391C1895368F004CE16B /* RITDog.m */; };
+		3E9739211895368F004CE16B /* RITHorse.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E97391E1895368F004CE16B /* RITHorse.m */; };
+		3E97392918953ABF004CE16B /* Task in Resources */ = {isa = PBXBuildFile; fileRef = 3E97392818953ABF004CE16B /* Task */; };
+		3E97392C18956A47004CE16B /* RITKangaroo.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E97392B18956A47004CE16B /* RITKangaroo.m */; };
+		3E97392F1895770F004CE16B /* RITPlatypus.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E97392E1895770F004CE16B /* RITPlatypus.m */; };
+		3E97393218957AB9004CE16B /* RITStudent.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E97393118957AB9004CE16B /* RITStudent.m */; };
 		A21DE00F188DCA1C0038BC67 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A21DE00E188DCA1C0038BC67 /* Foundation.framework */; };
 		A21DE011188DCA1C0038BC67 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A21DE010188DCA1C0038BC67 /* CoreGraphics.framework */; };
 		A21DE013188DCA1C0038BC67 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A21DE012188DCA1C0038BC67 /* UIKit.framework */; };
@@ -32,6 +44,32 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3E97390A1895367B004CE16B /* RITNextGeneration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RITNextGeneration.h; sourceTree = "<group>"; };
+		3E97390B1895367B004CE16B /* RITNextGeneration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RITNextGeneration.m; sourceTree = "<group>"; };
+		3E97390C1895367B004CE16B /* RITRunner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RITRunner.h; sourceTree = "<group>"; };
+		3E97390D1895367B004CE16B /* RITRunner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RITRunner.m; sourceTree = "<group>"; };
+		3E97390E1895367B004CE16B /* RITSwimmer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RITSwimmer.h; sourceTree = "<group>"; };
+		3E97390F1895367B004CE16B /* RITSwimmer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RITSwimmer.m; sourceTree = "<group>"; };
+		3E9739101895367B004CE16B /* RITWheelman.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RITWheelman.h; sourceTree = "<group>"; };
+		3E9739111895367B004CE16B /* RITWheelman.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RITWheelman.m; sourceTree = "<group>"; };
+		3E9739121895367B004CE16B /* RITHuman.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RITHuman.h; sourceTree = "<group>"; };
+		3E9739131895367B004CE16B /* RITHuman.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RITHuman.m; sourceTree = "<group>"; };
+		3E9739191895368F004CE16B /* RITAnimal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RITAnimal.h; sourceTree = "<group>"; };
+		3E97391A1895368F004CE16B /* RITAnimal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RITAnimal.m; sourceTree = "<group>"; };
+		3E97391B1895368F004CE16B /* RITDog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RITDog.h; sourceTree = "<group>"; };
+		3E97391C1895368F004CE16B /* RITDog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RITDog.m; sourceTree = "<group>"; };
+		3E97391D1895368F004CE16B /* RITHorse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RITHorse.h; sourceTree = "<group>"; };
+		3E97391E1895368F004CE16B /* RITHorse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RITHorse.m; sourceTree = "<group>"; };
+		3E9739231895375F004CE16B /* RITJumpers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RITJumpers.h; sourceTree = "<group>"; };
+		3E973924189537EE004CE16B /* RITSwimmers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RITSwimmers.h; sourceTree = "<group>"; };
+		3E9739251895385B004CE16B /* RITRunners.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RITRunners.h; sourceTree = "<group>"; };
+		3E97392818953ABF004CE16B /* Task */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Task; sourceTree = "<group>"; };
+		3E97392A18956A47004CE16B /* RITKangaroo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RITKangaroo.h; sourceTree = "<group>"; };
+		3E97392B18956A47004CE16B /* RITKangaroo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RITKangaroo.m; sourceTree = "<group>"; };
+		3E97392D1895770F004CE16B /* RITPlatypus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RITPlatypus.h; sourceTree = "<group>"; };
+		3E97392E1895770F004CE16B /* RITPlatypus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RITPlatypus.m; sourceTree = "<group>"; };
+		3E97393018957AB9004CE16B /* RITStudent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RITStudent.h; sourceTree = "<group>"; };
+		3E97393118957AB9004CE16B /* RITStudent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RITStudent.m; sourceTree = "<group>"; };
 		A21DE00B188DCA1C0038BC67 /* ProtocolsTestHomework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProtocolsTestHomework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A21DE00E188DCA1C0038BC67 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A21DE010188DCA1C0038BC67 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -74,6 +112,52 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3E973908189535F1004CE16B /* Human */ = {
+			isa = PBXGroup;
+			children = (
+				3E9739121895367B004CE16B /* RITHuman.h */,
+				3E9739131895367B004CE16B /* RITHuman.m */,
+				3E97390C1895367B004CE16B /* RITRunner.h */,
+				3E97390D1895367B004CE16B /* RITRunner.m */,
+				3E97390E1895367B004CE16B /* RITSwimmer.h */,
+				3E97390F1895367B004CE16B /* RITSwimmer.m */,
+				3E9739101895367B004CE16B /* RITWheelman.h */,
+				3E9739111895367B004CE16B /* RITWheelman.m */,
+				3E97390A1895367B004CE16B /* RITNextGeneration.h */,
+				3E97390B1895367B004CE16B /* RITNextGeneration.m */,
+				3E97393018957AB9004CE16B /* RITStudent.h */,
+				3E97393118957AB9004CE16B /* RITStudent.m */,
+			);
+			name = Human;
+			sourceTree = "<group>";
+		};
+		3E9739091895363A004CE16B /* Animal */ = {
+			isa = PBXGroup;
+			children = (
+				3E9739191895368F004CE16B /* RITAnimal.h */,
+				3E97391A1895368F004CE16B /* RITAnimal.m */,
+				3E97392A18956A47004CE16B /* RITKangaroo.h */,
+				3E97392B18956A47004CE16B /* RITKangaroo.m */,
+				3E97391B1895368F004CE16B /* RITDog.h */,
+				3E97391C1895368F004CE16B /* RITDog.m */,
+				3E97391D1895368F004CE16B /* RITHorse.h */,
+				3E97391E1895368F004CE16B /* RITHorse.m */,
+				3E97392D1895770F004CE16B /* RITPlatypus.h */,
+				3E97392E1895770F004CE16B /* RITPlatypus.m */,
+			);
+			name = Animal;
+			sourceTree = "<group>";
+		};
+		3E973922189536EE004CE16B /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				3E9739231895375F004CE16B /* RITJumpers.h */,
+				3E973924189537EE004CE16B /* RITSwimmers.h */,
+				3E9739251895385B004CE16B /* RITRunners.h */,
+			);
+			name = Protocols;
+			sourceTree = "<group>";
+		};
 		A21DE002188DCA1C0038BC67 = {
 			isa = PBXGroup;
 			children = (
@@ -107,6 +191,10 @@
 		A21DE014188DCA1C0038BC67 /* ProtocolsTestHomework */ = {
 			isa = PBXGroup;
 			children = (
+				3E97392818953ABF004CE16B /* Task */,
+				3E973922189536EE004CE16B /* Protocols */,
+				3E9739091895363A004CE16B /* Animal */,
+				3E973908189535F1004CE16B /* Human */,
 				A21DE01D188DCA1C0038BC67 /* RITAppDelegate.h */,
 				A21DE01E188DCA1C0038BC67 /* RITAppDelegate.m */,
 				A21DE020188DCA1D0038BC67 /* Images.xcassets */,
@@ -221,6 +309,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A21DE019188DCA1C0038BC67 /* InfoPlist.strings in Resources */,
+				3E97392918953ABF004CE16B /* Task in Resources */,
 				A21DE021188DCA1D0038BC67 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -240,8 +329,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E9739141895367B004CE16B /* RITNextGeneration.m in Sources */,
+				3E97392F1895770F004CE16B /* RITPlatypus.m in Sources */,
 				A21DE01F188DCA1C0038BC67 /* RITAppDelegate.m in Sources */,
+				3E9739181895367B004CE16B /* RITHuman.m in Sources */,
 				A21DE01B188DCA1C0038BC67 /* main.m in Sources */,
+				3E9739201895368F004CE16B /* RITDog.m in Sources */,
+				3E9739161895367B004CE16B /* RITSwimmer.m in Sources */,
+				3E9739171895367B004CE16B /* RITWheelman.m in Sources */,
+				3E9739211895368F004CE16B /* RITHorse.m in Sources */,
+				3E9739151895367B004CE16B /* RITRunner.m in Sources */,
+				3E97392C18956A47004CE16B /* RITKangaroo.m in Sources */,
+				3E97391F1895368F004CE16B /* RITAnimal.m in Sources */,
+				3E97393218957AB9004CE16B /* RITStudent.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -444,6 +544,7 @@
 				A21DE039188DCA1D0038BC67 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A21DE03A188DCA1D0038BC67 /* Build configuration list for PBXNativeTarget "ProtocolsTestHomeworkTests" */ = {
 			isa = XCConfigurationList;
@@ -452,6 +553,7 @@
 				A21DE03C188DCA1D0038BC67 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
