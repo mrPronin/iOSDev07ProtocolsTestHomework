@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>01081DD0-2A61-4159-8352-175FDC2218F9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ProtocolsTestHomework</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>58B1816D-DABA-4764-A889-0A94295AABE9</key>
+		<string>ssh://github.com/mrPronin/iOSDev07ProtocolsTestHomework.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ProtocolsTestHomework.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>58B1816D-DABA-4764-A889-0A94295AABE9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/mrPronin/iOSDev07ProtocolsTestHomework.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>58B1816D-DABA-4764-A889-0A94295AABE9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>58B1816D-DABA-4764-A889-0A94295AABE9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>07ProtocolsTestHomework</string>
+		</dict>
+	</array>
+</dict>
+</plist>
